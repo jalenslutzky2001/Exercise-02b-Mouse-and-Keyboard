@@ -71,7 +71,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-02b-Mouse-and-Keyboard
-Exercise for MSCH-C220, 8 February 2021
+Exercise for MSCH-C220, 10 February 2021
 
 A simple game exploring mouse and keyboard control of Node2D translation and rotation.
 
@@ -88,6 +88,6 @@ None
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 
 ```
